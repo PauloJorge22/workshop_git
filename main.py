@@ -11,6 +11,8 @@ def calculadora_simples():
 
     if operador == '+':
         resultado = add(numero1, numero2)
+    if operador == '-':
+        resultado=numero1-numero2
     else:
         print("Operador inválido.")
         return
