@@ -24,6 +24,8 @@ Cada membro:
 - Implementem uma operação "extra" no vosso branch e adicionem ao master.
 (O mais rápido estará livre de conflitos, mas os restantes terão de resolvê-los)
 
+ola
+
 
 ### 4. Voltar atrás no tempo
 - O elemento que ficou livre de conflitos deverá repôr o master para a versão sem operador "extra".
