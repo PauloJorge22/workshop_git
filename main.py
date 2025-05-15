@@ -14,10 +14,15 @@ def calculadora_simples():
 
     if operador == '+':
         resultado = add(numero1, numero2)
+<<<<<<< HEAD
     
     if operador == 'x1':
         resultado = multiply(numero1, numero2)
 
+=======
+    if operador == '-':
+        resultado=numero1-numero2
+>>>>>>> origin/main
     else:
         print("Operador inválido.")
         return
